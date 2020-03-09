@@ -1,0 +1,36 @@
+Method 1: 
+#1: result: 1036, correct: True, time: 17443 
+#2: result: 1032, correct: True, time: 20915 
+#3: result: 1051, correct: True, time: 19820 
+#4: result: 1012, correct: True, time: 21227 
+#5: result: 1052, correct: True, time: 16521 
+#6: result: 1039, correct: True, time: 19889 
+#7: result: 1068, correct: True, time: 19195 
+#8: result: 1034, correct: True, time: 20995 
+#9: result: 1063, correct: True, time: 19488 
+#10: result: 1013, correct: True, time: 21697 
+
+Method 2: 
+#1: result: 987, correct: True, time: 34570 
+#2: result: 1007, correct: True, time: 31720 
+#3: result: 1001, correct: True, time: 33405 
+#4: result: 1014, correct: True, time: 34044 
+#5: result: 1019, correct: True, time: 34472 
+#6: result: 1073, correct: True, time: 33983 
+#7: result: 1048, correct: True, time: 34412 
+#8: result: 998, correct: True, time: 36998 
+#9: result: 1016, correct: True, time: 33854 
+#10: result: 1022, correct: True, time: 34102 
+
+Method 3: 
+#1: result: 1013, correct: True, time: 24238 
+#2: result: 1046, correct: True, time: 23724 
+#3: result: 1028, correct: True, time: 26037 
+#4: result: 1037, correct: True, time: 26018 
+#5: result: 1027, correct: True, time: 21542 
+#6: result: 1060, correct: True, time: 25034 
+#7: result: 1064, correct: True, time: 26122 
+#8: result: 1027, correct: True, time: 22973 
+#9: result: 1054, correct: True, time: 25236 
+#10: result: 1032, correct: True, time: 25708 
+
